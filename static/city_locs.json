@@ -1,0 +1,320 @@
+[
+    {
+          "country": "Afghanistan",
+          "city": "Herat",
+          "lat": 34.3508273,
+          "long": 62.2164003
+    },
+    {
+          "country": "Dagestan (Russia)",
+          "city": "Ashagah Arar",
+          "lat": 42.1432,
+          "long": 47.095
+    },
+    {
+          "country": "Egypt",
+          "city": "Cairo",
+          "lat": 30.0443879,
+          "long": 31.2357257
+    },
+    {
+          "country": "Georgia",
+          "city": "Kulashi",
+          "lat": 42.2064959,
+          "long": 42.3446657
+    },
+    {
+          "country": "Georgia",
+          "city": "Kutaisi",
+          "lat": 42.2716078,
+          "long": 42.7054475
+    },
+    {
+          "country": "Georgia",
+          "city": "Oni",
+          "lat": 42.66802335,
+          "long": 43.53487037032389
+    },
+    {
+          "country": "Greece",
+          "city": "Chalkida",
+          "lat": 38.4623664,
+          "long": 23.5946877
+    },
+    {
+          "country": "India",
+          "city": "Cochin",
+          "lat": 9.931308,
+          "long": 76.2674136
+    },
+    {
+          "country": "Iran",
+          "city": "Yazd",
+          "lat": 32.0406164,
+          "long": 54.6657189
+    },
+    {
+          "country": "Iraq",
+          "city": "Baghdad",
+          "lat": 33.3061701,
+          "long": 44.3872213
+    },
+    {
+          "country": "Iraq",
+          "city": "Heet",
+          "lat": 33.6387394,
+          "long": 42.8278537
+    },
+    {
+          "country": "Iraq",
+          "city": "Mosul",
+          "lat": 36.343694049999996,
+          "long": 43.099715597302286
+    },
+    {
+          "country": "Italy",
+          "city": "Florence",
+          "lat": 43.7698712,
+          "long": 11.2555757
+    },
+    {
+          "country": "Italy",
+          "city": "Milan",
+          "lat": 45.4641943,
+          "long": 9.1896346
+    },
+    {
+          "country": "Italy",
+          "city": "Rome",
+          "lat": 41.8933203,
+          "long": 12.4829321
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Challa",
+          "lat": 37.2,
+          "long": 43.6
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Duhok",
+          "lat": 37.042257,
+          "long": 43.0953954
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Narva",
+          "lat": 37.03478988195918,
+          "long": 43.85389860691291
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Saqqez",
+          "lat": 36.2427456,
+          "long": 46.2705227
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Sulaymaniyah",
+          "lat": 35.5570501,
+          "long": 45.4425963
+    },
+    {
+          "country": "Kurdistan",
+          "city": "Zakho",
+          "lat": 37.1543002,
+          "long": 42.70078692045387
+    },
+    {
+          "country": "Libya",
+          "city": "Tripoli",
+          "lat": 32.896672,
+          "long": 13.1777923
+    },
+    {
+          "country": "Lithuania",
+          "city": "Kovno",
+          "lat": 54.8982139,
+          "long": 23.9044817
+    },
+    {
+          "country": "Lithuania",
+          "city": "Trakai",
+          "lat": 54.6449911,
+          "long": 24.9353981
+    },
+    {
+          "country": "Morocco",
+          "city": "Bouguemez",
+          "lat": 31.6360424,
+          "long": -6.4821075
+    },
+    {
+          "country": "Morocco",
+          "city": "Debdou",
+          "lat": 33.98446971323408,
+          "long": -3.0401
+    },
+    {
+          "country": "Morocco",
+          "city": "Fes",
+          "lat": 34.0346534,
+          "long": -5.0161926
+    },
+    {
+          "country": "Morocco",
+          "city": "Marrakech",
+          "lat": 31.6258257,
+          "long": -7.9891608
+    },
+    {
+          "country": "Morocco",
+          "city": "Meknes",
+          "lat": 33.897877,
+          "long": -5.5320345
+    },
+    {
+          "country": "Morocco",
+          "city": "Mogador",
+          "lat": 31.5118281,
+          "long": -9.7620903
+    },
+    {
+          "country": "Morocco",
+          "city": "Sefrou",
+          "lat": 33.824898,
+          "long": -4.833336
+    },
+    {
+          "country": "Morocco",
+          "city": "Tafilalt",
+          "lat": 33.9545694,
+          "long": -6.843093
+    },
+    {
+          "country": "Morocco",
+          "city": "Tetouan",
+          "lat": 35.570175,
+          "long": -5.3742776
+    },
+    {
+          "country": "Russia",
+          "city": "Kazan",
+          "lat": 55.7823547,
+          "long": 49.1242266
+    },
+    {
+          "country": "Slovakia",
+          "city": "Nitra",
+          "lat": 48.31295,
+          "long": 18.0894593
+    },
+    {
+          "country": "Syria",
+          "city": "Aleppo",
+          "lat": 36.19924,
+          "long": 37.1637253
+    },
+    {
+          "country": "The Netherlands",
+          "city": "Amsterdam",
+          "lat": 52.3727598,
+          "long": 4.8936041
+    },
+    {
+          "country": "Tunisia",
+          "city": "Djerba",
+          "lat": 33.77339055,
+          "long": 10.885904100766005
+    },
+    {
+          "country": "Tunisia",
+          "city": "Tunis",
+          "lat": 36.8065,
+          "long": 10.1815
+    },
+    {
+          "country": "Turkey",
+          "city": "Izmir",
+          "lat": 38.4224548,
+          "long": 27.1310699
+    },
+    {
+          "country": "Turkey",
+          "city": "Nusaybin",
+          "lat": 37.0691755,
+          "long": 41.2164671
+    },
+    {
+          "country": "Turkey",
+          "city": "Urfa",
+          "lat": 37.2595198,
+          "long": 39.0408174
+    },
+    {
+          "country": "Uzbekistan",
+          "city": "Bukhara",
+          "lat": 39.7675529,
+          "long": 64.4231326
+    },
+    {
+          "country": "Uzbekistan",
+          "city": "Kerki",
+          "lat": 37.8407881,
+          "long": 65.2063911
+    },
+    {
+          "country": "Uzbekistan",
+          "city": "Tashkent",
+          "lat": 41.3123363,
+          "long": 69.2787079
+    },
+    {
+          "country": "Yemen",
+          "city": "Aden",
+          "lat": 12.833333,
+          "long": 44.916667
+    },
+    {
+          "country": "Yemen",
+          "city": "Al Mdid",
+          "lat": 15.3694,
+          "long": 44.191
+    },
+    {
+          "country": "Yemen",
+          "city": "Dhamar",
+          "lat": 14.7384268,
+          "long": 44.2709597
+    },
+    {
+          "country": "Yemen",
+          "city": "Habban",
+          "lat": 14.290268,
+          "long": 47.136125
+    },
+    {
+          "country": "Yemen",
+          "city": "Radaa",
+          "lat": 14.408206604363707,
+          "long": 44.83636818170346
+    },
+    {
+          "country": "Yemen",
+          "city": "Sadah",
+          "lat": 17.063405,
+          "long": 43.914884
+    },
+    {
+          "country": "Yemen",
+          "city": "Saddah",
+          "lat": 13.323159,
+          "long": 44.143743
+    },
+    {
+          "country": "Yemen",
+          "city": "Taizz",
+          "lat": 13.4115414,
+          "long": 43.5570871
+    }
+]
