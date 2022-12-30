@@ -3,7 +3,7 @@ from bidi.algorithm import get_display
 import json
 from xml.dom import minidom
 
-with open('filenames.json') as f:
+with open('static/filenames.json') as f:
     data = json.load(f)
 
 # Pre-load dictionary of city locations from JSON

@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 # Pre-load dictionary of files from JSON
-with open('filenames.json') as f:
+with open('static/filenames.json') as f:
     data = json.load(f)
 formatted_data = data
 for datum in formatted_data:
