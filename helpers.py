@@ -1,5 +1,4 @@
 # This helps to print Hebrew correctly in terminal for debugging. Not necessary for running server
-from bidi.algorithm import get_display
 import json
 from xml.dom import minidom
 
