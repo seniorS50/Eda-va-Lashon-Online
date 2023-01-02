@@ -59,7 +59,7 @@ def book_to_abbr(book_name):
 
 def get_book_index():
     # Get info from the index
-    doc = minidom.parse("Books/TanachIndex.xml")
+    doc = minidom.parse("static/books/TanachIndex.xml")
     index = doc.getElementsByTagName("book")
     book_info = []
     for book in index:
@@ -113,7 +113,7 @@ def get_hebrew_text(book, chapter, firstvs = 1, lastvs = -1):
         lastvs = int(chapters[chapter-1]["vss"])
     
     # load the xml of the specific book
-    doc = minidom.parse("books/" + filename + ".xml")
+    doc = minidom.parse("static/books/" + filename + ".xml")
     # doc.getElementsByTagName returns the NodeList
     chps = doc.getElementsByTagName("c")
     # get verses in a chapter
@@ -172,7 +172,7 @@ def search_entries(term):
     
 def get_jps(book, chapter, firstvs = 0, lastvs = 0):
     # Get info from the index
-    doc = minidom.parse("Books\engjps_vpl.xml")
+    doc = minidom.parse("static/books/engjps_vpl.xml")
     index = doc.getElementsByTagName("v")
     text = []
     for verse in index:
