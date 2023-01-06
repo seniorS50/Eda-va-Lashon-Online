@@ -1,3 +1,6 @@
+// Check if we are testing or not:
+const DEBUG = (window.location.hostname == '127.0.0.1') ? true : false
+
 $(document).ready(function() {
     // Rather than let DataTables do the ajax, which is annoying, why don't we do it?
     var table = $('#myTable').DataTable({
@@ -96,6 +99,7 @@ function renderMap(cities) {
             // Clear table using DataTables.js
             let table = $('#myTable').DataTable();
             table
+                .columns( 1 )
                 .search( city_name )
                 .draw();
         })
