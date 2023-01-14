@@ -32,7 +32,6 @@ $(document).ready(function() {
         focusMap(focusCities)
     } );
   })
-  
 function distinct(array){
     let distinctArray = []
     for(let i = 0; i < array.length; i++) {
